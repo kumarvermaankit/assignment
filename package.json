@@ -8,14 +8,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/OktarianTB/stock-market-auction-mechanism.git"
+    "url": "git+https://github.com/kumarvermaankit/assignment"
   },
   "author": "Ankit Kumar Verma",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/OktarianTB/stock-market-auction-mechanism/issues"
-  },
-  "homepage": "https://github.com/OktarianTB/stock-market-auction-mechanism#readme",
+ 
   "dependencies": {
     "axios": "^0.21.4",
     "bcryptjs": "^2.4.3",
